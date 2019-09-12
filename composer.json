@@ -1,0 +1,15 @@
+{
+    "name": "ershy/erswoole",
+    "authors": [
+        {
+            "name": "ershy",
+            "email": "46111363@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "erswoole\\" : "erswoole"
+        }
+    }
+}
